@@ -9,4 +9,4 @@ The working DLL is available in the 'izzy_plugin' folder. Simply drop this into 
  
 The source requires the Isadora SDK as well as additional libraries (not included to honor licenses). Comments in the code supply details.
 
-Development of this plugin has ended. I am looking at cross-platform options for future developement.
+**Development of this plugin has ended.** Isadora 2.6.1 now includes a native cross-platform actor, 'Get URL Text'.
